@@ -1,1 +1,3 @@
 # App-opener-Multi-tool
+## A Custom tool made by C++ for understanding logic and tooling....
+### For custom ASCII generation visit 'patorkjk taag'
